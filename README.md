@@ -1,8 +1,13 @@
-# React + Vite
+# Product-Catalog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this i have used React JS and redux Toolkit and React Router Dom for Routing
 
-Currently, two official plugins are available:
+# To run this
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1> Open folder in IDE (Vs Code)
+2> Open the terminal
+
+# Commands
+
+1> cd Product-Catalog
+2> npm run dev
