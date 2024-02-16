@@ -78,7 +78,7 @@ const Products = () => {
       {data === null ? (
         <Loader />
       ) : (
-        <div className=" h-fit flex items-center justify-center flex-wrap p-[2vw]">
+        <div className=" h-screen flex items-center justify-center flex-wrap p-[2vw]">
           {data.products.map((item) => {
             return (
               <Product
