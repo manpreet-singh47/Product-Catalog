@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  height: 100vh;
+  /* background-color: aquamarine !important; */
+  /* position: relative;
+  z-index: 5; */ 
+}
+/* 
+      {title === "Mens-shirts" && (
+        <Link
+          to={"mens-shirts"}
+          className="bg-gray-50 text-black px-3 py-2 rounded-xl hover:bg-sky-600 hover:text-white  duration-300"
+        >
+          See more
+        </Link>
+      )}
+
+      {title === "skincare" && (
+        <Link
+          to={"skincare"}
+          className="bg-gray-50 text-black px-3 py-2 rounded-xl hover:bg-sky-600 hover:text-white  duration-300"
+        >
+          See more
+        </Link>
+      )}
+
+      {title === "Women-dresses" && (
+        <Link
+          to={"women-dresses"}
+          className="bg-gray-50 text-black px-3 py-2 rounded-xl hover:bg-sky-600 hover:text-white  duration-300"
+        >
+          See more
+        </Link>
+      )}
+
+      {title === "groceries" && (
+        <Link
+          to={"groceries"}
+          className="bg-gray-50 text-black px-3 py-2 rounded-xl hover:bg-sky-600 hover:text-white  duration-300"
+        >
+          See more
+        </Link>
+      )}
+
+      {title === "women-shoes" && (
+        <Link
+          to={"womens-shoes"}
+          className="bg-gray-50 text-black px-3 py-2 rounded-xl hover:bg-sky-600 hover:text-white  duration-300"
+        >
+          See more
+        </Link>
+      )}
+
+      {title === "mens-watches" && (
+        <Link
+          to={"mens-watches"}
+          className="bg-gray-50 text-black px-3 py-2 rounded-xl hover:bg-sky-600 hover:text-white  duration-300"
+        >
+          See more
+        </Link>
+      )}
+
+      {title === "tops" && (
+        <Link
+          to={"tops"}
+          className="bg-gray-50 text-black px-3 py-2 rounded-xl hover:bg-sky-600 hover:text-white  duration-300"
+        >
+          See more
+        </Link>
+      )}
+
+      {title === "sunglasses" && (
+        <Link
+          to={"sunglasses"}
+          className="bg-gray-50 text-black px-3 py-2 rounded-xl hover:bg-sky-600 hover:text-white  duration-300"
+        >
+          See more
+        </Link>
+      )} */
